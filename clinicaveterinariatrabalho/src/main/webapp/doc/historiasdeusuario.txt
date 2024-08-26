@@ -1,0 +1,9 @@
+H1 - Como secretária da clínica veterinária, Eu quero adicionar um animal ao sistema Para que eu possa agendar uma consulta para ele. As seguintes informações serão registradas: Nome, raça, espeécie, peso, idade, gênero, e nome do tutor
+
+H2 - Como secretaria da clinica veterinaria, Eu quero adicionar um tutor ao sistema Para que eu possa agendar uma consulta para o seu animal no futuro ou entrar em contato. As seguintes informações serão registradas: Nome, telefone e endereço.
+
+H3 - Como medico da clinica veterinaria, Eu quero calcular a quantidade correta de medicamento para determinado animal, Para que eu possa garantir que cada um deles receba a dosagem correta. As seguintes informações serão registradas: Concentração do medicamento mg/ml, peso kg.
+
+H4 - Como secretaria da clinica veterinaria, Eu quero simular um percentual de desconto no valor da consulta Para que eu possa gerar um relatório dos pagamentos ao fim do mês. As seguintes informações serao registradas: Valor da consulta, valor do desconto
+
+H5 - Como secretária da clinica veterinaria, Eu quero agendar uma consulta para um animal, Para que o paciente possa ser atendido numa consulta. As seguintes informações serão registradas: Data, hora, tutor, animal
