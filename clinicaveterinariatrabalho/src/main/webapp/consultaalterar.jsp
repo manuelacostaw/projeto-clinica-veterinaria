@@ -8,11 +8,11 @@
 </head>
 <body>
  <form action="/clinicaveterinariatrabalho/ConsultaAlterar" method="post">
-        <input type="hidden" name="id" value="${idDaConsulta}">
+        
         Tipo: <input type="text" name="tipo" value="${tipoDaConsulta}"> <br>
         Valor: <input type="text" name="valor" value="${valorDaConsulta}"> <br>
         Desconto: <input type="text" name="desconto" value="${descontoDaConsulta}"> <br>
-        <input type="submit" value="Salvar Alterações">
+        <input type="submit" value="Salvar Alteraï¿½ï¿½es">
     </form>
 </body>
 </html>
