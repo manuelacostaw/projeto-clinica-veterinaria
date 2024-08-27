@@ -14,6 +14,7 @@
                 <td>${tutor.nome}</td>
                 <td>${tutor.telefone}</td>
                 <td>${tutor.endereco}</td>
+                <label>teste</label>
             </tr>
         </c:forEach>
 </body>
